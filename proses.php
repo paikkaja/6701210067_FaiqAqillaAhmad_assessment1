@@ -4,6 +4,7 @@
       $angka2 = $_POST["angka2"];
       $operator = $_POST["operator"];
 
+<<<<<<< HEAD
       // Lakukan operasi aritmatika sesuai dengan operator
       if ($operator == "+") {
         $hasil = $angka1 + $angka2;
